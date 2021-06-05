@@ -10,3 +10,5 @@
 
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvinfo28&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvinfo28&hide=Jupyter%20Notebook&layout=compact&langs_count=9)
+
+![](https://komarev.com/ghpvc/?username=dhruvinfo28&color=green)
